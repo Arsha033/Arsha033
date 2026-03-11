@@ -27,7 +27,7 @@ Actualmente enfocada en el desarrollo frontend y la integración de herramientas
 
 <p align="center"> 
 💻 Estudiante de Desarrollo de Software en el Instituto Tecnológico Universitario (ITU).<br> 
-🌱 Desarrollando actualmente <b>Piel Calma</b>, un proyecto enfocado en el cuidado de la piel.<br> 
+🌐 Actualmente trabajando en el desarrollo de la página web <b>ESPielCalma.com</b>.<br>
 🎮 Interesada en el desarrollo de videojuegos y el uso de Godot.<br> 
 🚀 Siempre buscando aprender nuevas herramientas de automatización y diseño web.
 </p>
@@ -42,4 +42,3 @@ Actualmente enfocada en el desarrollo frontend y la integración de herramientas
 </a>
 </p>
 
-<p align="center"> <i>"El código es poesía en movimiento."</i> </p>
