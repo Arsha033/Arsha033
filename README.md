@@ -34,7 +34,7 @@
 <h2 align="center">Contacto</h2>
 
 <p align="center">
-<a href="mailto:TU_CORREO_AQUÍ@gmail.com">
+<a href="mailto:alanadiaz38@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contactar-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
