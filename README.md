@@ -2,10 +2,7 @@
 
 <h3 align="center">Estudiante de Desarrollo de Software en el ITU</h3>
 
-<p align="center">
-Apasionada por la tecnología, el desarrollo web y la creación de experiencias digitales.<br>
-Actualmente enfocada en el desarrollo frontend y la integración de herramientas modernas.
-</p>
+
 
 ---
 
